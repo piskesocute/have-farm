@@ -1,1 +1,0 @@
-import{L as r}from"./LayoutNavbar.4b397fb2.js";import{r as t,o as a,c as n,a as e,F as s}from"./index.0096a875.js";import"./plugin-vueexport-helper.2444895f.js";const l={__name:"FrontView",setup(c){return(m,_)=>{const o=t("router-view");return a(),n(s,null,[e(r),e(o)],64)}}};export{l as default};
