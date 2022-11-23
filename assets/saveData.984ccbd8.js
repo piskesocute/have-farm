@@ -1,0 +1,1 @@
+import{H as r,i as t}from"./index.01daeb54.js";const o=r("dataSave",()=>{const a=t([{imgUrl:"",imagesUrl:[""],title:"",category:"",unit:"",origin_price:0,price:0,aria:"",farm:"",description:"",content:"",is_enabled:1,is_special:0,qty:0}]),e=t({total_pages:1,current_page:1,has_pre:1,has_next:1,category:""});return{productData:a,pagination:e}});export{o as u};
